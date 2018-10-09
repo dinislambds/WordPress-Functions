@@ -32,3 +32,6 @@ the_tags();
 
 //anotehr way
 get_the_tag_list();
+
+//html tag filter kore
+strip_tags();
